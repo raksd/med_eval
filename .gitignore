@@ -1,0 +1,7 @@
+.medvenv/
+.vscode/
+data/raw/
+.env
+__pycache__/
+06_walkthrough.py
+The project plan.docx

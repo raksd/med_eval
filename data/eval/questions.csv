@@ -1,0 +1,5 @@
+id,question,drug,expected_answer,evidence_phrase
+q001,My patient has atrial fibrillation. What dose of apixaban should I start with?,apixaban,"5 mg twice daily for most patients; 2.5 mg twice daily if at least two of: age 80 or over, weight 60 kg or under, serum creatinine 1.5 mg/dL or over",The recommended dose of ELIQUIS for most patients is 5 mg taken orally twice daily
+q002,A patient forgot their morning apixaban dose. What should they do?,apixaban,"Take it as soon as possible on the same day, then resume twice daily. Do not double up.",taken as soon as possible on the same day
+q003,What amlodipine dose should a frail elderly patient start on?,amlodipine,2.5 mg once daily,may be started on 2.5 mg once daily
+q004,Is warfarin safe in pregnancy?,warfarin,"No. It is contraindicated, except in pregnant women with mechanical heart valves.",contraindicated in women who are pregnant
