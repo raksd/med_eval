@@ -22,8 +22,7 @@ and red-teaming.
 ## Pipeline
 
 Run the scripts in order from the project root. Corpus: one reference label per drug (20 drugs,
-tablets, single-ingredient). Design decisions and how to adapt them are in
-[DECISIONS.md](DECISIONS.md).
+tablets, single-ingredient).
 
 | Script | What it does |
 |---|---|
